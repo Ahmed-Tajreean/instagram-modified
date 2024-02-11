@@ -1,0 +1,7 @@
+{
+    "require": {
+        "php": ">=5.3.2",
+        "hive/hive-php-lib": "dev-main"
+    },
+    "minimum-stability": "dev"
+}
